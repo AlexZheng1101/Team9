@@ -30,8 +30,8 @@ Line Bot 提醒機器人
 
 ***
 ## Pert/Cpm圖
+![PertCpm圖](pertcpm.jpg "PertCpm圖")
 
-![PERT](mermaid-diagram-20211017221823.png "PERT")
 
 
 ***
