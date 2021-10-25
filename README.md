@@ -32,6 +32,9 @@ Line Bot 提醒機器人
 ## Pert/Cpm圖
 ![PertCpm圖](pertcpm.jpg "PertCpm圖")
 
+***
+## 功能分解圖
+![功能分解圖](功能分解圖.jpg "功能分解圖")
 
 
 ***
