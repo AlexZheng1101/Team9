@@ -108,3 +108,16 @@ Line Bot 提醒機器人
 ## DFD 0
 ![DFD0圖](DFD0.jpeg "DFD0圖")
 ***
+
+gantt
+    title 甘特圖
+    dateFormat  2021-11-01
+    討論主題     :a1, 2021-11-01, 1d
+    任務分配     :after a1  , 1d
+    功能確認     : a2,after a1, 2d
+    API製作    :a3,after a2,20d
+    爬蟲機器人製作    :a4,after a2, 40d
+    Line Bot製作    :a5,after a3,20d
+    介面設計    :a6,after a5,10d
+    系統整合    :a7,after a6,10d
+    使用者測試    :after a7,6d
