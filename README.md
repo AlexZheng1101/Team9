@@ -113,7 +113,7 @@ Line Bot 提醒機器人
 
 ***
 ## UML
-![UML](UML.jpeg "UML圖")
+![UML](UML.jpg "UML圖")
 
 ***
 ## ERD
